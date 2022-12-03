@@ -2,7 +2,7 @@
 <view class="container">
 	<!-- <image class="avatar" src="/images/avatar/1.png"></image> -->
   <l-avatar l-text-class="l-avatar-text" class="l-avatar" placement="bottom" open-data="{{['userAvatarUrl','userNickName']}}" size="180"/>
-	<text class="motto">Hello,七月</text>
+	<text class="motto">Hello,小程序</text>
 	<!-- <button></button> -->
   <view bind:tap="onTap" class="journey-container">
     <text  class="journey">开启小程序之旅</text>
