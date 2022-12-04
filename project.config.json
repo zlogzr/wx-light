@@ -29,7 +29,8 @@
         },
         "useIsolateContext": true,
         "useCompilerModule": false,
-        "userConfirmedUseCompilerModuleSwitch": false
+        "userConfirmedUseCompilerModuleSwitch": false,
+        "ignoreUploadUnusedFiles": false
     },
     "compileType": "miniprogram",
     "libVersion": "2.12.2",
